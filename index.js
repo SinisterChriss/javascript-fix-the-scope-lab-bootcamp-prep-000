@@ -2,6 +2,7 @@ var animal = 'dog'
 const two = 2;
 
 function myAnimal(animal) {
+ var animal = 'dog'
   return animal
 }
 
