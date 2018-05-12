@@ -1,4 +1,5 @@
 var animal = 'dog'
+const two = 2;
 
 function myAnimal(animal) {
   return animal
@@ -12,7 +13,6 @@ function yourAnimal() {
 }
 
 function add2(n) {
-  const two = 2;
   return n + two
 
   // Feel free to move things around!
